@@ -23,11 +23,11 @@ except Exception as e:
     print(e)
 
 while True:
-    #andromeda
+    #DemoMeetOne
     now = datetime.now().strftime("%H:%M")
     if now < '11:00':
-        Andromeda = pyautogui.locateCenterOnScreen("Andromeda.PNG") 
-        pyautogui.moveTo(Andromeda)
+        DemoMeetOne = pyautogui.locateCenterOnScreen("DemoMeetOne.PNG") 
+        pyautogui.moveTo(DemoMeetOne)
         pyautogui.click()
         time.sleep(2)
         join = pyautogui.locateCenterOnScreen("join.PNG") 
@@ -38,9 +38,11 @@ while True:
         pyautogui.moveTo(audiooff)
         pyautogui.click()
         time.sleep(2)
-    elif now <'10:00': 
-        Automation = pyautogui.locateCenterOnScreen("Automation.PNG") 
-        pyautogui.moveTo(Automation)
+        
+    elif now <'10:00':
+      	#DemoMeetTwo
+        DemoMeetTwo = pyautogui.locateCenterOnScreen("DemoMeetTwo.PNG") 
+        pyautogui.moveTo(DemoMeetTwo)
         pyautogui.click()
         time.sleep(2)
         join = pyautogui.locateCenterOnScreen("join.PNG") 
