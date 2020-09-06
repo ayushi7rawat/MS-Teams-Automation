@@ -2,6 +2,9 @@
 Automating MS Teams with Python using PyAutoGui
 
 ---
+
+![alt text](https://github.com/ayushi7rawat/MS-Teams-Automation/blob/master/Cover.jpg)
+
 Do you use MS Teams?
 
 Due to this pandemic situation, the usage of these video conferencing apps also increased and most of the classes and lectures and conferences are conducted in Teams nowadays.
@@ -22,6 +25,7 @@ Pre-requisites:
 Microsoft Teams application:
 ==========================
 MS Teams is a popular chat and video conferencing app which allows us to attend/conduct meetings.
+
 You can download it by clicking at the [link](https://www.microsoft.com/en-in/microsoft-365/microsoft-teams/download-app)
 
 PyAutoGui:
@@ -32,7 +36,7 @@ PyAutoGUI works on Windows, macOS, and Linux, and runs on Python 2 and 3.
 You can refer to the Pyautogui's [documentation](https://pyautogui.readthedocs.io/en/latest/)
 
 
-Installation1:
+Installation:
 ==========================
 ```
 pip install pyautogui
@@ -51,9 +55,11 @@ If you wish to understand the complete walkthrough, you should visit my [Blog](h
 LICENSE:
 ==========================
 Copyright (c) 2020 Ayushi Rawat
+
 MS-Teams-Automation is licensed under the MIT License
 
-
+My Digital Garden:
+==========================
 I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi7rawat).
 - [Twitter Bot](https://dev.to/ayushi_rawat_/how-to-make-a-twitter-bot-with-python-3jg9)
 - [Instagram Bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)
