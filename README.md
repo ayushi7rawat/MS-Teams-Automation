@@ -10,6 +10,7 @@ Do you use MS Teams?
 Due to this pandemic situation, the usage of these video conferencing apps also increased and most of the classes and lectures and conferences are conducted in Teams nowadays.
 
 Disclaimer:
+==========================
 This code is for educational purposes only and the author is not responsible for any consequences resulted. Please do not try it if you do not agree with the condition.
 
 Let us see how I have automated Teams so that it automatically logs into one's meetings/classes on time.
@@ -56,7 +57,7 @@ LICENSE:
 ==========================
 Copyright (c) 2020 Ayushi Rawat
 
-MS-Teams-Automation is licensed under the MIT License
+MS-Teams-Automation Repository is licensed under the MIT License
 
 My Digital Garden:
 ==========================
