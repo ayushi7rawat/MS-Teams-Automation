@@ -51,7 +51,7 @@ You can find the code in script.py
 
 Explanation Walkthrough:
 ==========================
-If you wish to understand the complete walkthrough, you should visit my [Blog](https://dev.to/ayushi7rawat/how-to-automate-ms-teams-with-python-3g2d)
+If you wish to understand the complete walkthrough, you should visit my [Blog](https://ayushirawat.com/how-to-automate-ms-teams-with-python)
 
 LICENSE:
 ==========================
